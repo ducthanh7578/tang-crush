@@ -10,7 +10,7 @@ const CONFIG = {
     btnNo: 'của Cường, Như Minh,Jisoo',
     question:'Sao hồi đó ai cũng chửi t fuckboy mà bạn vẫn iu t vại',
     btnReply: 'trả lời thật lòng nhá',
-    reply: '',
+    reply: 'hehe',
     mess: 'nói chung nà trả lời thế nào thì t cx iu m vãi cả l, cám ơn đã bên t suốt thời gian vừa ròi',
     messDesc: 'Cuối tuần rảnh lúc nào kiu để t lẻn ra hun 1 cái ạ',
     btnAccept: 'Oke',
